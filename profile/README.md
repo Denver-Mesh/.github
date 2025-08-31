@@ -1,8 +1,8 @@
 # Denver Mesh Network
-Building a community-owned, decentralized, and resilient wireless network for Denver, Colorado.
+Building a community-owned, decentralized, and resilient wireless network for Colorado.
 
 ## Project Overview
-Denver Mesh is a community-driven initiative dedicated to building a free and open wireless mesh network across the Denver metro area. We believe in providing a resilient, decentralized alternative to traditional internet service providers, ensuring that our communities have access to a reliable communication network that is owned and operated by the people who use it.
+Denver Mesh is a community-driven initiative dedicated to building a free and open wireless mesh network across Colorado. We believe in providing a resilient, decentralized alternative to traditional internet service providers, ensuring that our communities have access to a reliable communication network that is owned and operated by the people who use it, especially during emergencies.
 
 This repository serves as the central hub for our software development, documentation, and hardware configurations. Whether you're a seasoned developer, a networking enthusiast, or just curious about what we're building, you've come to the right place.
 
@@ -15,8 +15,8 @@ This repository serves as the central hub for our software development, document
 ## Getting Started
 Interested in joining the network or setting up your own node? Follow these steps to get started:
 1. Visit our Website: The most up-to-date information on how to join the network and get your equipment can be found on our official website: https://denvermesh.org/.
-1. Explore the Code: If you're a developer, you can start by exploring the source code in this repository. Look for issues labeled "good first issue" to get a feel for our development process.
-1. Join the Community: We have a vibrant community of builders and enthusiasts. Check the Contact section below to find our communication channels and join the conversation.
+1. Explore the Code: If you're a developer, you can start by exploring the source code in this repository.
+1. Join the Community: We have a vibrant community of builders and enthusiasts. Check the website to find our communication channels and join the conversation.
 
 ## How to Contribute
 We welcome contributions of all kinds! This is a community effort, and every bit of help makes a difference.
